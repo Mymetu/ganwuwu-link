@@ -1,4 +1,5 @@
-#ganwu-link v0.1
+	ganwu-link v0.1
+	
 		1，数据库配置文件是/admin/user.php
 		2，数据库有两个表，需要自己创建，手动设置。
 
